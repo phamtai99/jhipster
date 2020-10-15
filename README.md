@@ -1,0 +1,2 @@
+# jhipster
+springBoot+Angular
